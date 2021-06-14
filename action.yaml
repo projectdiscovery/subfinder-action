@@ -1,5 +1,8 @@
 name: "SubFinder Action"
 description: "SubFinder is a passive subdomain discovery tool that discovers valid subdomains for websites."
+branding:
+  icon: "activity"
+  color: "blue"
 
 inputs:
   domain:
